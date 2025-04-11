@@ -1,4 +1,4 @@
-#Explorador de Archivos Android
+##Explorador de Archivos Android
 
 Este es un explorador de archivos básico para Android desarrollado en Kotlin. Permite a los usuarios navegar a través de los directorios de su dispositivo y seleccionar archivos para ver su contenido.
 
