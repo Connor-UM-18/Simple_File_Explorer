@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la aplicación -->
+    <style name="Base.Theme.Practica3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Definición de colores personalizados -->
+    </style>
+    <style name="Theme.Practica3" parent="Base.Theme.Practica3" />
+    <!-- Tema Azul Claro -->
+    <style name="Theme_TuExploradorDeArchivos_Azul" parent="Base.Theme.Practica3">
+        <item name="colorPrimary">@color/azul_claro_primario</item>
+        <item name="colorSecondary">@color/azul_claro_secundario</item>
+        <item name="android:windowBackground">@color/azul_claro_fondo</item>
+    </style>
+
+    <!-- Tema Verde Claro -->
+    <style name="Theme_TuExploradorDeArchivos_Verde" parent="Base.Theme.Practica3">
+        <item name="colorPrimary">@color/verde_claro_primario</item>
+        <item name="colorSecondary">@color/verde_claro_secundario</item>
+        <item name="android:windowBackground">@color/verde_claro_fondo</item>
+    </style>
+</resources>

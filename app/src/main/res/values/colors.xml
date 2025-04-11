@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores básicos -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Tema Azul -->
+    <color name="azul_claro_primario">#2196F3</color>
+    <color name="azul_claro_secundario">#BBDEFB</color>
+    <color name="azul_claro_fondo">#E3F2FD</color>
+
+    <color name="azul_oscuro_primario">#2C6FD5</color>
+    <color name="azul_oscuro_secundario">#1976D2</color>
+    <color name="azul_oscuro_fondo">#010D1B</color>
+
+    <!-- Tema Verde -->
+    <color name="verde_claro_primario">#AF4C7A</color>
+    <color name="verde_claro_secundario">#E6C8D9</color>
+    <color name="verde_claro_fondo">#F5E8ED</color>
+
+    <color name="verde_oscuro_primario">#BD519D</color>
+    <color name="verde_oscuro_secundario">#8E3863</color>
+    <color name="verde_oscuro_fondo">#2A0418</color>
+</resources>
